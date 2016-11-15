@@ -1,0 +1,3 @@
+
+email@hotmail.com,welcome1,Bob,Davis,(514) 908-4645
+ericap@gmail.com,welcome2,erica,p,(514) 897-0983

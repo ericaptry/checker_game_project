@@ -1,0 +1,55 @@
+[15-Nov-2016 16:43:28 UTC] PHP Notice:  Undefined index: email in /home/ubuntu/workspace/checkers_game/game/template/view.php on line 37
+[15-Nov-2016 16:43:28 UTC] PHP Stack trace:
+[15-Nov-2016 16:43:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/checkers_game/view.php:0
+[15-Nov-2016 16:43:28 UTC] PHP   2. include_once() /home/ubuntu/workspace/checkers_game/view.php:17
+[15-Nov-2016 16:43:28 UTC] PHP   3. include_once() /home/ubuntu/workspace/checkers_game/include/GenericTemplate.php:64
+[15-Nov-2016 16:48:34 UTC] PHP Notice:  Undefined index: email in /home/ubuntu/workspace/checkers_game/game/template/view.php on line 37
+[15-Nov-2016 16:48:34 UTC] PHP Stack trace:
+[15-Nov-2016 16:48:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/checkers_game/view.php:0
+[15-Nov-2016 16:48:34 UTC] PHP   2. include_once() /home/ubuntu/workspace/checkers_game/view.php:17
+[15-Nov-2016 16:48:34 UTC] PHP   3. include_once() /home/ubuntu/workspace/checkers_game/include/GenericTemplate.php:64
+[15-Nov-2016 16:50:47 UTC] PHP Notice:  Undefined index: email in /home/ubuntu/workspace/checkers_game/game/template/view.php on line 37
+[15-Nov-2016 16:50:47 UTC] PHP Stack trace:
+[15-Nov-2016 16:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/checkers_game/view.php:0
+[15-Nov-2016 16:50:47 UTC] PHP   2. include_once() /home/ubuntu/workspace/checkers_game/view.php:17
+[15-Nov-2016 16:50:47 UTC] PHP   3. include_once() /home/ubuntu/workspace/checkers_game/include/GenericTemplate.php:64
+[15-Nov-2016 16:51:14 UTC] PHP Notice:  Undefined index: email in /home/ubuntu/workspace/checkers_game/game/template/view.php on line 37
+[15-Nov-2016 16:51:14 UTC] PHP Stack trace:
+[15-Nov-2016 16:51:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/checkers_game/view.php:0
+[15-Nov-2016 16:51:14 UTC] PHP   2. include_once() /home/ubuntu/workspace/checkers_game/view.php:17
+[15-Nov-2016 16:51:14 UTC] PHP   3. include_once() /home/ubuntu/workspace/checkers_game/include/GenericTemplate.php:64
+[15-Nov-2016 16:52:15 UTC] PHP Notice:  Undefined index: email in /home/ubuntu/workspace/checkers_game/game/template/view.php on line 37
+[15-Nov-2016 16:52:15 UTC] PHP Stack trace:
+[15-Nov-2016 16:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/checkers_game/view.php:0
+[15-Nov-2016 16:52:15 UTC] PHP   2. include_once() /home/ubuntu/workspace/checkers_game/view.php:17
+[15-Nov-2016 16:52:15 UTC] PHP   3. include_once() /home/ubuntu/workspace/checkers_game/include/GenericTemplate.php:64
+[15-Nov-2016 16:52:53 UTC] PHP Notice:  Undefined index: email in /home/ubuntu/workspace/checkers_game/game/template/view.php on line 37
+[15-Nov-2016 16:52:53 UTC] PHP Stack trace:
+[15-Nov-2016 16:52:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/checkers_game/view.php:0
+[15-Nov-2016 16:52:53 UTC] PHP   2. include_once() /home/ubuntu/workspace/checkers_game/view.php:17
+[15-Nov-2016 16:52:53 UTC] PHP   3. include_once() /home/ubuntu/workspace/checkers_game/include/GenericTemplate.php:64
+[15-Nov-2016 16:54:09 UTC] PHP Notice:  Undefined index: email in /home/ubuntu/workspace/checkers_game/game/template/view.php on line 37
+[15-Nov-2016 16:54:09 UTC] PHP Stack trace:
+[15-Nov-2016 16:54:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/checkers_game/view.php:0
+[15-Nov-2016 16:54:09 UTC] PHP   2. include_once() /home/ubuntu/workspace/checkers_game/view.php:17
+[15-Nov-2016 16:54:09 UTC] PHP   3. include_once() /home/ubuntu/workspace/checkers_game/include/GenericTemplate.php:64
+[15-Nov-2016 16:54:29 UTC] PHP Notice:  Undefined index: email in /home/ubuntu/workspace/checkers_game/game/template/view.php on line 37
+[15-Nov-2016 16:54:29 UTC] PHP Stack trace:
+[15-Nov-2016 16:54:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/checkers_game/view.php:0
+[15-Nov-2016 16:54:29 UTC] PHP   2. include_once() /home/ubuntu/workspace/checkers_game/view.php:17
+[15-Nov-2016 16:54:29 UTC] PHP   3. include_once() /home/ubuntu/workspace/checkers_game/include/GenericTemplate.php:64
+[15-Nov-2016 16:55:51 UTC] PHP Notice:  Undefined index: email in /home/ubuntu/workspace/checkers_game/game/template/view.php on line 37
+[15-Nov-2016 16:55:51 UTC] PHP Stack trace:
+[15-Nov-2016 16:55:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/checkers_game/view.php:0
+[15-Nov-2016 16:55:51 UTC] PHP   2. include_once() /home/ubuntu/workspace/checkers_game/view.php:17
+[15-Nov-2016 16:55:51 UTC] PHP   3. include_once() /home/ubuntu/workspace/checkers_game/include/GenericTemplate.php:64
+[15-Nov-2016 16:56:27 UTC] PHP Notice:  Undefined index: email in /home/ubuntu/workspace/checkers_game/game/template/view.php on line 37
+[15-Nov-2016 16:56:27 UTC] PHP Stack trace:
+[15-Nov-2016 16:56:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/checkers_game/view.php:0
+[15-Nov-2016 16:56:27 UTC] PHP   2. include_once() /home/ubuntu/workspace/checkers_game/view.php:17
+[15-Nov-2016 16:56:27 UTC] PHP   3. include_once() /home/ubuntu/workspace/checkers_game/include/GenericTemplate.php:64
+[15-Nov-2016 17:00:39 UTC] PHP Notice:  Undefined index: email in /home/ubuntu/workspace/checkers_game/game/template/view.php on line 37
+[15-Nov-2016 17:00:39 UTC] PHP Stack trace:
+[15-Nov-2016 17:00:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/checkers_game/view.php:0
+[15-Nov-2016 17:00:39 UTC] PHP   2. include_once() /home/ubuntu/workspace/checkers_game/view.php:17
+[15-Nov-2016 17:00:39 UTC] PHP   3. include_once() /home/ubuntu/workspace/checkers_game/include/GenericTemplate.php:64
