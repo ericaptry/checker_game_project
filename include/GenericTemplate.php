@@ -35,16 +35,20 @@ if(!isset($targetContent)) {
 			?>
 		</li>
 </ul>
+</div>
 
 <div id="divClock">
 				<span id="spanClock"></span>
 </div>
 
-	<h1>CHECKERS</h1>
-	 </div>
-	 <div id="welcome">
+	<h1 class="title">CHECKERS</h1>
+	
+
+	 
+	<div id="welcome">
 <h2>Players Welcome!</h2>
-</div>
+	</div>
+	
 	<div id="logo">
 				<a href="index.php"><img src="images/logo.jpg" width="80" height="80"></a>
 	</div>
