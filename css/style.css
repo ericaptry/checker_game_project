@@ -3,11 +3,13 @@ body {
 	padding: 0;
 	background:#EDEDED;
 	height:1000px;
+	width:100%;
 
 }
 
 #divClock {
-	width:275px;
+	width:320px;
+	padding:5px;
 	text-align:center;
 	font: 10px arial, sans-serif;
 	color:gray;
@@ -35,33 +37,20 @@ h1, h3, p{
 }
 		
 
-#browser{
-	float:right;
-	
-}
-
-#browser p{
-	color:black;
-	text-align:center;
-	font: 10px arial, sans-serif;
-
-
-}
-#browser img {
-	vertical-align: middle;
-	
-}
-
 #wrapper {
         width: 100%;
         background-color: #FFFFFF;
 		margin-left:auto;
 		margin-right:auto;
+		
 
         }
  
       #header {
+        
         overflow: hidden;
+        margin: auto 0;
+	
         }
  
       #header h1 {
@@ -75,11 +64,18 @@ h1, h3, p{
 	list-style-type:none;
 	margin:0;
 	padding:0;
-	overflow:hidden;
+	overflow-x: hidden;
+
+	
+	
 }
 
 #header li {
 	float:left;
+	overflow-x: hidden;
+
+	
+	
 }
 
 #header a:visited {
@@ -89,7 +85,8 @@ h1, h3, p{
 #header a:link {
 	display:block;
 	background-color:black;
-	width:310px;
+	width:312px;
+	margin:auto 0;
 	font-weight:bold;
 	color:#FFFFFF;
 	text-align:center;
@@ -173,6 +170,23 @@ h1, h3, p{
 #footer a:hover,a:active{
 	background-color: #EDEDED;
 	}
+	
+#browser{
+	float:right;
+	
+}
+
+#browser p{
+	color:black;
+	text-align:center;
+	font: 10px arial, sans-serif;
+
+
+}
+#browser img {
+	vertical-align: middle;
+	
+}
 	
 ol li{
 	color:black;
