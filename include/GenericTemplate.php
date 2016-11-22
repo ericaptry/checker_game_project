@@ -2,13 +2,17 @@
 if(!isset($targetContent)) {
 	$targetContent = "include/static/index.php";
 }
+?>
 
-?><!DOCTYPE html>
+
+<!DOCTYPE html>
+
 <html>
 	<head> 
 	<title>Checkers</title>
-	  <meta charset="utf-8">
-	  <link rel="stylesheet" type="text/css" href="css/style.css">
+	  <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+	  <link rel="stylesheet" type="text/css" href="css/style.css" />
 	  <script src="js/library.js"></script>
 	</head>
     <body onload="<?php 
@@ -19,7 +23,7 @@ if(!isset($targetContent)) {
 	<div id="wrapper">
 <div id="header">
 	<ul>
-		<li><FONT COLOR="#FFFFFF"><a href="index.php">Home</a></FONT></li>
+		<li><a href="index.php">Home</a></li>
 		<li><a href="rules.php">Rules</a></li>
 		<li><a href="contact.php">Contact us</a></li>
 		<li>
@@ -50,13 +54,13 @@ if(!isset($targetContent)) {
 	</div>
 	
 	<div id="logo">
-				<a href="index.php"><img src="images/logo.jpg" width="80" height="80"></a>
+				<a href="index.php"><img src="images/logo.jpg" width="80" height="80" alt="Logo" /></a>
 	</div>
   </div>
   
 <div id="side">
  <ul>
-	<li><FONT COLOR="#FFFFFF"><a href="index.php">View Games</a></FONT></li>
+	<li><a href="index.php">View Games</a></li>
 	<li><a href="profile.php">Profile</a></li>
 	<li><a href="users.php">Players</a></li>
 	<li><a href="register.php">Register</a></li>
@@ -67,18 +71,20 @@ if(!isset($targetContent)) {
  <div id="content">
 	<?php include_once $targetContent ;?>
 </div>
-		
+
+
 <div class="footer">
+	<div class="browser">	
+		<p>Designed for use with: </p><a href="http://www.mozilla.com"><img src="images/firefox.png" alt="Browser" /></a>
+	</div>
+	
  <div id="footer">
        <ul>
         	<li><a href="privacy.php">Privacy Statement</a></li>
-			<li><a href="contact.php">Contact us</a></li><
-        
-	<div id="browser">
-       	<p>Designed for use with: <a href="http://www.mozilla.com"><img src="images/firefox.png"/></a>
-	</div>
-      	</ul>
-</div>
+			<li><a href="contact.php">Contact us</a></li>
+      </ul>
+ </div>
+ 
 </div>
 
 </body>

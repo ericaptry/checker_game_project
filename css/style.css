@@ -82,6 +82,7 @@ h1, h3, p{
 
 #header a:visited {
 	color:white;
+	background-color:black;
 }
 
 #header a:link {
@@ -96,7 +97,7 @@ h1, h3, p{
 	text-transform:uppercase;
 }
 
-#header a:hover,a:active {
+#header a:hover, a:active {
 	background-color:lightgrey;
 
 }
@@ -134,6 +135,7 @@ h1, h3, p{
 }
 #side a:visited {
 	color: white;
+	background-color:black;
 }
 
 #side a:link {
@@ -197,19 +199,21 @@ h1, h3, p{
 	background-color: #EDEDED;
 	}
 	
-#browser{
+ .browser{
 	float:right;
-	
+	padding: 10px 0;
 }
 
-#browser p{
+
+ .browser p{
+ 	float:left;
 	color:black;
 	text-align:center;
 	font: 10px arial, sans-serif;
 
 
 }
-#browser img {
+ .browser img {
 	vertical-align: middle;
 	
 }
